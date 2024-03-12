@@ -1,8 +1,9 @@
-import react from "react"
-import { useState,useEffect } from "react"
+import React from 'react'
 
-
-function Update(){
-
-    
+const Update = () => {
+  return (
+    <div>Update</div>
+  )
 }
+
+export default Update

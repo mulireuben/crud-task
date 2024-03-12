@@ -7,6 +7,8 @@ import Update from "./components/Update";
 
 function App() {
   return (
+   // <Changes/>
+    
     <Router>
       
          <div className='main'>
